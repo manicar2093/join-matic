@@ -4,11 +4,16 @@ An easy way to join data.
 
 ## Manual
 
--file-path string
+- **file-path** _string_
+
     Data file path to append
--output-file string
+
+- **output-file** _string_
+
     Where the data will be wrote. \nBy default this will be displayed on Stdout to send data througth >> bash statement (default "StdOut")
--separ string
+
+- **separ** _string_
+
     What will separate all data (default ",")
 
 ## Examples
