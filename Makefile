@@ -1,2 +1,2 @@
 build:
-	@ go build -o join-matic main.go
+	@ go build -o join-matic cmd/cli/*.go
